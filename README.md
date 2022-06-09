@@ -1,3 +1,3 @@
 # vnw_mod_2
 
-Javascript exercises made at the @VainNaWeb school.
+Javascript exercises made at @VainNaWeb school.
