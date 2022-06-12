@@ -14,8 +14,8 @@ if (age >= 18 && isHuman)
     console.log("Congratulations! You are a human with more than 18 years.");
 else
     console.log("Try with another age or specie.");
-birthDay = "Janeiro";
-if (birthDay == "Janeiro" || birthDay == "Dezembro")
+birthDay = "January";
+if (birthDay == "January" || birthDay == "December")
     console.log("Happy Birthday!");
 firstName = "Rafael";
 if (firstName[0] == 'R')
