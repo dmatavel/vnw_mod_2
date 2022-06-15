@@ -26,6 +26,6 @@ secondName = "Michelangelo";
 for (i = 0; secondName[i]; i++)
 {
     if (secondName[i] > 6 || firstName[0] == 'R')
-        console.log("Your name has more than six letters and starts with 'R'.");
+        console.log("Your name has more than six letters or starts with 'R'.");
         break;
 }
