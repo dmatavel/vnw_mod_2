@@ -20,7 +20,7 @@ console.log("3) Remove a property of this object.");
 delete student.city;
 console.log(student);
 
-console.log("4) Create an array called 'register' containing at least 5 objects. Each object must be given the following properties: name, age, phone, friends. In the friends property, add at least 4 items. Show the name of one friend from each list in the console.");
+console.log("4) Create an array called 'register' containing at least 5 objects. Each object must be given the following properties: name, age, phone, friends. In the friends property, add at least 4 items.");
 
 let register;
 
