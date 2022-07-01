@@ -42,7 +42,6 @@ console.log("3) Choose a variable and insert a condition for it (condition of yo
 let movie;
 
 movie = "The Godfather";
-
 if (movie == "The Godfather")
     console.log("My favorite movie is The Godfather.");
 else
